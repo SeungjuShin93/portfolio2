@@ -1,6 +1,6 @@
-@import url('practice03_header.css');
-@import url('practice03_main.css');
-@import url('practice03_footer.css');
+@import url('header.css');
+@import url('main.css');
+@import url('footer.css');
 
 /* Divider */
 :root {

@@ -22,6 +22,10 @@
 .article h2 i {
   margin-right: 16px;
 }
+.contact-email:hover span {
+  color: black;
+}
+
 .skills {
   display: flex;
   justify-content: space-between;
@@ -44,7 +48,7 @@
   bottom: 0;
   left: 0;
   width: calc(134% + 1.3px);
-  height: 30px;
+  height: 60px;
   overflow: hidden;
   line-height: 0;
   transform: rotate(180deg);
