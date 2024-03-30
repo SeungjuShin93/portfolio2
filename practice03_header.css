@@ -26,6 +26,17 @@
   mask: var(--divider-single-wave);
   -webkit-mask: var(--divider-single-wave);
 }
+
+.header-profile {
+  display: flex;
+  align-items: center;
+}
+.header-profile img {
+  width: 60px;
+}
+.header h1 {
+  margin: 0 30px;
+}
 .header a {
   color: black;
 }
